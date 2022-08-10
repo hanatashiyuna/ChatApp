@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "629343175139",
+    "firebase_url": "https://yuna-project-c649a-default-rtdb.firebaseio.com",
+    "project_id": "yuna-project-c649a",
+    "storage_bucket": "yuna-project-c649a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629343175139:android:58ab912d0045004828e0d6",
+        "android_client_info": {
+          "package_name": "com.example.yunaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629343175139-p97jai211n25mnta4kpevf26mq1rogus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ4PS_kEwqd2_KKMZKgMw8yP97TcenuiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629343175139-p97jai211n25mnta4kpevf26mq1rogus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

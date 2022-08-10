@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Yuna Project</string>
+
+    <string name="facebook_app_id">320698490128671</string>
+    <string name="fb_login_protocol_scheme">fb320698490128671</string>
+    <string name="facebook_client_token">28f5d40dd57b901f84ead318d6515f24</string>
+
+    <string name="sign_in">Sign In</string>
+    <string name="dont_have_account">Don\'t have account ?</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="user_name">User Name</string>
+    <string name="welcome">Welcome to Yuna App</string>
+    <string name="has_account">You have an account?</string>
+    <string name="log_out">Log Out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chatting">Type a message...</string>
+    <string name="properties">Properties</string>
+    <string name="my_account">My Account</string>
+    <string name="search">Search...</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+</resources>
